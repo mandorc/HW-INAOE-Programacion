@@ -7,7 +7,7 @@ Este repositorio contiene las soluciones y documentación de las tareas realizad
 
 | Nº  | Título de la tarea                          | Lenguaje(s) | Estado        | Enlace                       |
 | --- | ------------------------------------------- | ----------- | ------------- | ---------------------------- |
-| 01  | [Tarea 2](Tareas/tarea_02) | Python           | ✅ Completada | [Ver tarea](Tareas/tarea_02) |
+| 01  | [Tarea 2](Tareas/tarea_02) | Python           | ✅ Completada | [Ver tarea](Tareas/tarea_02/tarea02.md) |
 
 ## Requisitos
 - Compilador C++ (G++, Clang) y/o Python 3.x
