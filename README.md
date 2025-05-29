@@ -14,6 +14,6 @@ Este repositorio contiene las soluciones y documentación de las tareas realizad
 - Editor sugerido: VS Code, PyCharm, etc.
 
 ## Autor
-Nombre: Armmando Rivera Castillo
-Curso: MCR5002 – Programación y Estructuras de Datos
-INAOE - Curso propedeutico 2025
+- Nombre: Armmando Rivera Castillo
+- Curso: MCR5002 – Programación y Estructuras de Datos
+- INAOE - Curso propedeutico 2025
