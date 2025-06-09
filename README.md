@@ -8,6 +8,7 @@ Este repositorio contiene las soluciones y documentación de las tareas realizad
 | Nº  | Título de la tarea                          | Lenguaje(s) | Estado        | Enlace                       |
 | --- | ------------------------------------------- | ----------- | ------------- | ---------------------------- |
 | 01  | [Tarea 2](Tareas/tarea_02) | Python           | ✅ Completada | [Ver tarea](Tareas/tarea_02/tarea02.md) |
+| 03  | [Tarea 3](Tareas/tarea_03/code/tarea_03_Sistema_bancario/src) | ✅ Completada | [Ver tarea](Tareas/tarea_03/code/tarea_03_Sistema_bancario/src)  |
 
 ## Requisitos
 - Compilador C++ (G++, Clang) y/o Python 3.x
